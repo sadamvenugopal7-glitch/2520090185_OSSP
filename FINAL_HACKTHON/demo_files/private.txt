@@ -1,0 +1,3 @@
+CONFIDENTIAL AND PRIVATE NOTES
+This file should only be accessible by the owner (mode 600).
+Group and other users should have zero read or write access.

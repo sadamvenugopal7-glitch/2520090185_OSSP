@@ -1,0 +1,30 @@
+# Compiled Object files & Binaries
+bin/
+obj/
+*.o
+*.out
+*.exe
+permission_analyzer
+
+# Build and Test Temporary Files
+*.tmp
+*.log
+/tmp/analyzer_*
+/tmp/hackathon_*
+.cache/
+
+# Generated Scan Reports (keep sample reports in repo if needed, ignore generated audit runs)
+reports/scan_report_*
+reports/*.html
+reports/*.txt
+!reports/.gitkeep
+
+# Editor & OS Metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini

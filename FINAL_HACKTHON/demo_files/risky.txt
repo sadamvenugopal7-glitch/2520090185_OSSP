@@ -1,0 +1,4 @@
+SECURITY RISK DEMONSTRATION FILE
+This file has permission 777 (rwxrwxrwx).
+Any local user on the system can modify, truncate, or overwrite this content!
+The analyzer will detect this high-severity risk and recommend chmod 644.

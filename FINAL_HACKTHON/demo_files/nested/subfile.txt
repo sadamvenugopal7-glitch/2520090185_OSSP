@@ -1,0 +1,3 @@
+Nested Subdirectory Document
+Located in: demo_files/nested/subfile.txt
+Demonstrates multi-level recursive traversal by the Linux File Permission Analyzer.

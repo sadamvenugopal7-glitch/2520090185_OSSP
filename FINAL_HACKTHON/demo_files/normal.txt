@@ -1,0 +1,3 @@
+This is a normal public text file.
+Standard permission 644 allows owner read/write, group read, others read.
+It adheres to the principle of least privilege.
